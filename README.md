@@ -1,1 +1,1 @@
-3 Temel ML algoritmayı da içerien kodda o algotirmayı çağırmakk için yorum satırı olan yerleri kaldırmanız yeterli
+İçerisinde 3 temel optimizasyon algoritmasını içeren c ile yazılmış makine öğrenmesi kodu. İçerisine dışarıdan verilen resimleri boyutları fark etmeksizin işleyip ardından da onları 2 sınıfa ayıran makine öğrenmesi kodudur. 
